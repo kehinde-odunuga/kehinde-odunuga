@@ -21,8 +21,3 @@
 - ⚡ Fun fact: **I'm a foodie**
 
 
-Connect with me:
-
-
-Languages and Tools:
-android aws cypress figma firebase git grafana java javascript jenkins linux mongodb mysql nodejs oracle postgresql postman python selenium
