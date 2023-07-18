@@ -10,7 +10,7 @@
 **Also review software documentation to verify technical accuracy and completeness to mitigate risks.**
 
 
-- 🔭 I’m currently working on an #**Edtech project**
+- 🔭 I’m currently working on an **Edtech project**
 - 🌱 I’m currently learning **API Testing**
 - 👯 I’m looking to collaborate on **any software products for quality**
 - 🤔 I’m looking for help with **Non-functional Testing**
