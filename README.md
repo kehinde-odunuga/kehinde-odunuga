@@ -1,7 +1,7 @@
 
 ![gitdash](https://github.com/kehinde-odunuga/kehinde-odunuga/assets/94455737/91d9d84b-3362-49c9-83f0-4cabd81f6249)
 
-  ### Hello there 👋 I am Kehinde Odunuga
+  ### Hello world 👋 I am Kehinde Odunuga
 
 
 **A result-oriented quality assurance engineer committed to confirming proper functionality and usability of software products before release.**
@@ -19,10 +19,17 @@
 - 📫 How to reach me: omobolaji92@gmail.com or https://wa.link/djzilj
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: **I'm a foodie**
+<br />
+<br />
 
-
-
-##[Connect With Me:]([url](https://www.linkedin.com/in/kehinde-odunuga/)https://www.linkedin.com/in/kehinde-odunuga/) 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465](https://github.com/kehinde-odunuga/kehinde-odunuga/assets/94455737/a5ddf045-8c0a-4468-815a-a79cc5459809) ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/kehinde-odunuga/kehinde-odunuga/assets/94455737/bc16f8bd-d98f-4742-bdc3-5d0874cc46f0)  
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f6c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465](https://github.com/kehinde-odunuga/kehinde-odunuga/assets/94455737/02d6b198-b9c8-4b36-a966-8b24039ff530)
-
+<h3 align="left">Socials:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kehinde-odunuga" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kehinde-odunuga" height="30" width="40" /></a>
+<a href="https://instagram.com/@kehindeodunuga_" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kehindeodunuga_" height="30" width="40" /></a>
+<a href="https://twitter.com/kehindeodunuga_" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kehindeodunuga_" height="30" width="40" /></a>
+<a href="https://medium.com/@omobolaji92" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omobolaji92" height="30" width="40" /></a>
+</p>
